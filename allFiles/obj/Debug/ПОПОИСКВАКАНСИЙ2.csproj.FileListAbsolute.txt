@@ -1,0 +1,11 @@
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\bin\Debug\ПОПОИСКВАКАНСИЙ2.exe.config
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\bin\Debug\ПОПОИСКВАКАНСИЙ2.exe
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\bin\Debug\ПОПОИСКВАКАНСИЙ2.pdb
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.csprojAssemblyReference.cache
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.Form1.resources
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.Formedit.resources
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.Properties.Resources.resources
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.csproj.GenerateResource.cache
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.csproj.CoreCompileInputs.cache
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.exe
+C:\Users\Mizee\OneDrive\Рабочий стол\ПОПОИСКВАКАНСИЙ2\obj\Debug\ПОПОИСКВАКАНСИЙ2.pdb
